@@ -11,7 +11,7 @@ namespace
             Console.WriteLine("*** TABLAS DE MULTIPLICAR. ***");
             Console.WriteLine("******************************");
 
-            Console.WriteLine("¿Qué tabla quieres ver?");
+            Console.WriteLine("¿Qué tabla quieres mostrar?");
             int tabla = Convert.ToInt32(ValidarNumero("Escribe un número: "));    
 
             Console.WriteLine("¿Hasta qué número quieres ver la tabla?");
