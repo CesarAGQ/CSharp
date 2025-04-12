@@ -7,7 +7,7 @@ namespace
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Introduce 2 números. Y el sistema mostrará un número aleatorio entre los 2 valores introducidos.");
+            Console.WriteLine("Introduce 2 números. Y el sistema mostrará número aleatorio entre los 2 valores introducidos.");
             
             int liminf = ValidarLimites("Introduce el primer número: "); 
             int limsup = ValidarLimites("Introduce el segundo número: ");
