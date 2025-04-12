@@ -29,7 +29,7 @@
                 }
                 else
                 {
-                    Console.WriteLine("Error: No se permite números o caracter especial. Y debe ingresar solo una letra. ");
+                    Console.WriteLine("Error: No se permite números o caracter especial. Debe ingresar solo una letra. ");
                 }
             }
 
